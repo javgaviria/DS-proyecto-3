@@ -27,11 +27,12 @@ Implementa un modelo para predecir el flujo vehicular en una autopista de la Ciu
 
 
 Parte A - Exploración de Datos. Todo proyecto de Ciencia de Datos empieza con un Análisis Exploratorio de Datos. Y todo Análisis Exploratorio de Datos debe responder preguntas.
+
 Parte B - Modelo de Machine Learning. En esta sección deberás aplicar las técnicas de Machine Learning aprendidas para crear un modelo predictivo a partir del dataset provisto.
+
 Parte C - Investigación. Las preguntas y cosas para probar nunca se agotan. El objetivo de esta sección es que sugieras cómo continuarías el proyecto, con el fin de mejorar el modelo o responder una pregunta que consideres interesante. En todos los notebooks dejamos algunas sugerencias, pero puedes proponer otras.
 
 
-Criterios de Aceptación
 
 Sugerencias para desarrollar el proyecto:
 
