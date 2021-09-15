@@ -1,3 +1,7 @@
+Actualmente en desarrollo
+
+----
+
 Propósito y Scope
 
 Te encuentras trabajando en el área de Data Science de Globant, una software factory multinacional. Se abrió una competencia para empleados y tú te apuntas ¡es tu oportunidad de destacarte!
